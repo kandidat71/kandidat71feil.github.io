@@ -1,0 +1,16 @@
+footer {
+    background-color: #d7e2d7;
+    position: sticky;
+}
+
+.card {
+    background-color: #e5cca3;
+}
+
+.col mb-4 {
+    border: 15px;
+}
+
+button {
+    align-content: center;
+}
